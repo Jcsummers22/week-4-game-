@@ -1,0 +1,27 @@
+.jumbotron {
+	text-align: center;
+	background-color: lightgray;
+	font-weight: bold;
+	font-family: fantasy;
+}
+
+body {
+	background-color: #FFFFF0;
+}
+
+p {
+	font-weight: bold;
+	color: green;
+}
+
+.diamond {
+	  width: 30px;
+      height: 30px;
+      text-align: left;
+}
+
+h4 {
+	font-weight: bold;
+	font-family: cursive;
+	
+}
